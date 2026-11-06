@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "Fall-Frenzy-Case",
+  "title": "Costco Workforce Planner",
+  "width": 1280,
+  "height": 720,
+  "html": "<iframe src=\"https://sn32956.github.io/Fall-Frenzy-Case/\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen style=\"border:0\"></iframe>"
+}
